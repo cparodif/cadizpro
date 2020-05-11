@@ -1,0 +1,38 @@
+		body {
+			color: hsl(270, 100%, 50%,80%);
+			background-color:hsl(270, 60%, 50%, 15%);
+			font-family: "Times New Roman", Times, serif;
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 14px;
+		}
+		a {
+			color: hsl(270, 100%, 50%,80%);
+			text-decoration: underline  dotted ;
+		}
+		b, h1, h2, h3 {
+			color: rgb(0, 0, 0);
+		}
+		h1 {
+			text-shadow: 2px 2px 5px purple;
+		  font-size: 25px;
+			height: 20px;
+			letter-spacing: -1px;
+			line-height: 0.1;
+			font-stretch: ultra-condensed;
+		}
+
+		h2 {
+			text-shadow: 2px 2px 5px green;
+		  font-size: 20px;
+			font-stretch: extra-condensed;
+			letter-spacing: -1px;
+			line-height: 0.1;
+			height: 20px;
+		}
+		b {
+				text-shadow: 2px 2px 5px red;
+		}
+
+		p, td {
+		  font-size: 14px;
+		}
